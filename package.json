@@ -1,0 +1,25 @@
+{
+  "name": "11ty-start",
+  "version": "1.0.0",
+  "description": "https://egghead.io/courses/build-an-eleventy-11ty-site-from-scratch-bfd3",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demarcily/11ty-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demarcily/11ty-start/issues"
+  },
+  "homepage": "https://github.com/Demarcily/11ty-start#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "devDependencies": {}
+}
